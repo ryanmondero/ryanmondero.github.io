@@ -1,0 +1,17 @@
+RYAN L. MONDERO — PORTFOLIO WEBSITE
+READY-TO-HOST PACKAGE
+
+Open index.html in a browser to view the portfolio.
+
+This package is based on the approved V9 Slight Revision 4.
+No design/content changes were made during deployment preparation.
+
+External image previews/links:
+- Badge image
+- Kudos image
+- Upwork feedback screenshots
+- Recognition images
+
+These use Google Drive/Google thumbnail URLs and require internet access plus appropriate sharing permissions.
+
+Local assets such as the profile image and tool images are included in this package.
